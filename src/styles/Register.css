@@ -1,0 +1,15 @@
+.register-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.register-form input {
+  display: block;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+.register-form button {
+  width: 100%;
+  cursor: pointer;
+}

@@ -1,0 +1,23 @@
+.formContainer {
+  margin-bottom: 1rem;
+}
+
+.input,
+.textarea {
+  display: block;
+  margin-bottom: 0.5rem;
+  width: 100%;
+}
+
+.textarea {
+  height: 60px;
+}
+
+.buttonGroup {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.button {
+  cursor: pointer;
+}
