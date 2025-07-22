@@ -1,46 +1,26 @@
-# React Firebase E-Commerce App
+# 🛒 React Firebase E-Commerce App
 
-This is a React-based e-commerce application integrated with Firebase for authentication, product management, and order processing. It features:
-
-- Firebase Authentication (email/password)
-- Firestore database for products, users, and orders
-- Product CRUD (Create, Read, Update, Delete)
-- Shopping cart with context state management
-- Order placement and order history viewing
-- Continuous Integration and Deployment (CI/CD) pipeline via GitHub Actions and Vercel
-- Unit and integration tests with React Testing Library and Jest
+This is a modern e-commerce application built with React and Firebase, featuring user authentication, product management, and shopping functionality. It follows **Test-Driven Development (TDD)** principles and is fully integrated with a **CI/CD pipeline** using GitHub Actions and **deployed via Vercel**.
 
 ---
 
-## Live Demo
+## 🚀 Live Demo
 
-[Your Live App Link Here](https://your-vercel-app-url.vercel.app)
-
----
-
-## Features
-
-- User registration, login, and logout with Firebase Auth
-- Users can view, add, edit, and delete products (admin capabilities)
-- Shopping cart with quantity update and item removal
-- Place orders saved in Firestore linked to user accounts
-- View past orders with details
-- Responsive design and client-side routing
+👉 [Click here to view the app](https://your-vercel-app-url.vercel.app)
 
 ---
 
-## Getting Started
+## 🧩 Features
 
-### Prerequisites
+- 🔐 **Firebase Authentication** (Email/Password)
+- 📦 **Product CRUD** (Create, Read, Update, Delete) using Firestore
+- 🛍️ **Shopping Cart** with quantity adjustments and removal
+- 📖 **Order Placement** and Order History
+- 🌐 **Responsive UI** with React Router
+- ✅ **Unit and Integration Testing** using Jest and React Testing Library
+- ⚙️ **CI/CD with GitHub Actions** and Vercel Deployment
 
-- Node.js and npm installed
-- Firebase project with Authentication and Firestore enabled
-- Vercel account for deployment (optional)
+---
 
-### Installation
+## 📂 Folder Structure
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Janderson125/Firebase.git
-cd Firebase
