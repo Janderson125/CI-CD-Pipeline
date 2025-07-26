@@ -1,5 +1,13 @@
-# .gitignore
-.env
+# Byte-compiled / optimized / DLL files
 __pycache__/
-instance/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Other system files
+.DS_Store
